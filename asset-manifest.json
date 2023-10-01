@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Calculator-React/static/css/main.066f8b7b.css",
+    "main.js": "/Calculator-React/static/js/main.8fab16b2.js",
+    "static/js/787.c4a27a7d.chunk.js": "/Calculator-React/static/js/787.c4a27a7d.chunk.js",
+    "index.html": "/Calculator-React/index.html",
+    "main.066f8b7b.css.map": "/Calculator-React/static/css/main.066f8b7b.css.map",
+    "main.8fab16b2.js.map": "/Calculator-React/static/js/main.8fab16b2.js.map",
+    "787.c4a27a7d.chunk.js.map": "/Calculator-React/static/js/787.c4a27a7d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.066f8b7b.css",
+    "static/js/main.8fab16b2.js"
+  ]
+}
